@@ -5,7 +5,7 @@ This the concept proof directory for LSST Hardware Diagnostic Monitor mode. Curr
 
 The code is for experiment, thus, could be quick and dirty.
 
-The code is deployed on [this directory](http://lsst.illinois.edu). Currently with only static files, so served on a simple HTTP server.
+The code is deployed on [this host site](http://lsst.cs.illinois.edu). Currently with only static files, so served on a simple HTTP server.
 
 For the demon purpose, the following command are availabe within the command window at the left bottom corner.
 
