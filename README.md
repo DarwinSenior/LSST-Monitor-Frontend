@@ -31,6 +31,6 @@ The loading for firefly is slow for processing stage. And since the server is bl
 
 ## extension
 
-Current design is surround [firefly][https://github.com/lsst/firefly], and it plans to use [d3][http://d3js.org/], and [nvd3][http://nvd3.org/] for drawing and dom manipulation. The command tool box is based on [jquery terminal][http://terminal.jcubic.pl/]. 
+Current design is surround [firefly](https://github.com/lsst/firefly), and it plans to use [d3](http://d3js.org/), and [nvd3](http://nvd3.org/) for drawing and dom manipulation. The command tool box is based on [jquery terminal](http://terminal.jcubic.pl/). 
 
 
