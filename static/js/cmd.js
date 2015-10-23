@@ -251,13 +251,35 @@ cmds = {
             var third_line = content.append('p');
             third_line.append('span').text('region: ');
             var region_name = third_line.append('span').attr('id', 'readout-region-'+name);
-
+            
+            var forth_line = content.append('p');
+            forth_line.append('span').text('aveage-pixel: ');
+            var average_pixel_value = forth_line.append('span').attr('id', 'average-pixel-'+name);
             var height = 2000;
             var width = 502;
 
             var getRegion = function(pt){
                 var x = Math.floor(pt.x/width);
                 var y = Math.floor(pt.y/height);
+                var x_before = Math.floor(+x_point.text());
+                var y_before = Math.floor(+y_point.text());
+                if (x!=x_before || y!=y_before){
+                    request = {'region': {'geometry': 
+                        {'type': 'Polygon',
+                        'coordinates': [
+                        [x*width, y*height], [(x+1)*width, y*height],
+                        [(x+1)*width, (y+1)*height], [x*width, (y+1)*height],
+                        [x*width, y*height]
+                        ]}}};
+                    $.ajax({
+                        'method': 'GET',
+                        'data': {json: JSON.stringify(request)},
+                        'url': '/api/average-pixel-value',
+                        success: function(json){
+                            average_pixel_value.text(json.value);
+                        }
+                        });
+                }
                 return 'Region <'+x+','+y+'>';
             }
             state.show_readouts.add(name, function(data){

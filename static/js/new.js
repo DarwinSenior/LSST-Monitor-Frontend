@@ -12,7 +12,7 @@ var showRegionPointCB = function(data){
 function loadFirefly(viewId){
     var primaryViewer = firefly.makeImageViewer(viewId);
     primaryViewer.plot({
-        "URL" : "http://lsst.cs.illinois.edu/images/image.fits",
+        "URL" : "http://lsst.cs.illinois.edu/static/images/image.fits",
         "Title" : "Some WISE image",
         "ZoomType" : "TO_WIDTH"
     });

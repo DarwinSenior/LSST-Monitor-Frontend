@@ -1,0 +1,1211 @@
+10/16 11:59:37  INFO   Thread: localhost-startStop-1  server.WebPropertyLoader#loadPropertiesFromJar:227
+        Loaded file: edu/caltech/ipac/firefly/resources/SignIn.prop
+Loaded file: edu/caltech/ipac/firefly/resources/PopoutControlsUI.prop
+Loaded file: edu/caltech/ipac/firefly/resources/DataSetSearchUI.prop
+Loaded file: edu/caltech/ipac/firefly/resources/expand.prop
+Loaded file: edu/caltech/ipac/firefly/resources/ZoomOptionsPopup.prop
+Loaded file: edu/caltech/ipac/firefly/resources/ColorPickerDialog.prop
+Loaded file: edu/caltech/ipac/firefly/resources/CatalogSearchDialog.prop
+Loaded file: edu/caltech/ipac/firefly/resources/CatalogSearch.prop
+Loaded file: edu/caltech/ipac/firefly/resources/CatalogPanel.prop
+Loaded file: edu/caltech/ipac/firefly/resources/PrefGroup.prop
+Loaded file: edu/caltech/ipac/firefly/resources/SearchItemMonitorUI.prop
+Loaded file: edu/caltech/ipac/firefly/resources/StretchInputField.prop
+Loaded file: edu/caltech/ipac/firefly/resources/ManageAccount.prop
+Loaded file: edu/caltech/ipac/firefly/resources/BaseDialog.prop
+Loaded file: edu/caltech/ipac/firefly/resources/SpacialBehaviorPanel.prop
+Loaded file: edu/caltech/ipac/firefly/resources/FlipSelectionMenuBar.prop
+Loaded file: edu/caltech/ipac/firefly/resources/BackgroundManager.prop
+Loaded file: edu/caltech/ipac/firefly/resources/PopoutWidget.prop
+Loaded file: edu/caltech/ipac/firefly/resources/DatePanel.prop
+Loaded file: edu/caltech/ipac/firefly/resources/MOSPanel.prop
+Loaded file: edu/caltech/ipac/firefly/resources/TargetPanel.prop
+Loaded file: edu/caltech/ipac/firefly/resources/DemoSearch2MassPosCmd.prop
+Loaded file: edu/caltech/ipac/firefly/resources/TablePanel.prop
+Loaded file: edu/caltech/ipac/firefly/resources/FitsHeaderDialog.prop
+Loaded file: edu/caltech/ipac/firefly/resources/VisSelectionMenuBar.prop
+Loaded file: edu/caltech/ipac/firefly/resources/DynDownloadDialog.prop
+Loaded file: edu/caltech/ipac/firefly/resources/DegreeInputField.prop
+Loaded file: edu/caltech/ipac/firefly/resources/GridOptionsPopup.prop
+Loaded file: edu/caltech/ipac/firefly/resources/PastSearches.prop
+Loaded file: edu/caltech/ipac/firefly/resources/HistoryTags.prop
+Loaded file: edu/caltech/ipac/firefly/resources/ShowDownloadManagerCmd.prop
+Loaded server only file: edu/caltech/ipac/firefly/resources/_server.prop
+Loaded file: edu/caltech/ipac/firefly/resources/LoadCatalogFromVOSearchUI.prop
+Loaded file: edu/caltech/ipac/firefly/resources/ImageGridPanel.prop
+Loaded file: edu/caltech/ipac/firefly/resources/NaifTargetPanel.prop
+Loaded file: edu/caltech/ipac/firefly/resources/SearchMethods.prop
+Loaded file: edu/caltech/ipac/firefly/resources/grid.prop
+Loaded file: edu/caltech/ipac/firefly/resources/NewAccount.prop
+Loaded file: edu/caltech/ipac/firefly/resources/DS9RegionLoadDialog.prop
+Loaded file: edu/caltech/ipac/firefly/resources/XYPlotOptionsDialog.prop
+Loaded file: edu/caltech/ipac/firefly/resources/CatalogSearchDropDown.prop
+Loaded file: edu/caltech/ipac/firefly/resources/SpacialSelectUI.prop
+Loaded file: edu/caltech/ipac/firefly/resources/CoveragePreview.prop
+Loaded file: edu/caltech/ipac/firefly/resources/FitsImagePreview.prop
+Loaded file: edu/caltech/ipac/firefly/resources/LoadCatalogSearchUI.prop
+Loaded file: edu/caltech/ipac/firefly/resources/SimpleTargetPanel.prop
+Loaded file: edu/caltech/ipac/firefly/resources/MarkerTool.prop
+Loaded file: edu/caltech/ipac/firefly/resources/DatasetPlotTypeUI.prop
+Loaded file: edu/caltech/ipac/firefly/resources/WebLayerControlPopup.prop
+Loaded file: edu/caltech/ipac/firefly/resources/ShowPreferences.prop
+Loaded file: edu/caltech/ipac/firefly/resources/StatisticsDialog.prop
+Loaded file: edu/caltech/ipac/firefly/resources/RotateDialog.prop
+Loaded file: edu/caltech/ipac/firefly/resources/XYPlotViewPanel.prop
+Loaded file: edu/caltech/ipac/firefly/resources/SpacialOps.prop
+10/16 11:59:37  INFO   Thread: localhost-startStop-1  server.WebPropertyLoader#loadPropertiesFromJar:227
+        Loaded file: edu/caltech/ipac/fftools/resources/AppMenu.prop
+10/16 11:59:37  INFO   Thread: localhost-startStop-1  server.WebPropertyLoader#loadDirectoryProperties:103
+        
+10/16 11:59:37  INFO   Thread: localhost-startStop-1  cache.EhcacheProvider#<clinit>:56
+        cache manager config file: file:/home/dyue2/.extract/webapps/fftools/WEB-INF/config/ehcache.xml
+10/16 11:59:37  INFO   Thread: localhost-startStop-1  cache.EhcacheProvider#<clinit>:59
+        loading ehcache config file: file:/home/dyue2/.extract/webapps/fftools/WEB-INF/config/ehcache.xml
+10/16 11:59:38  INFO   Thread: localhost-startStop-1  download.URLDownload#printMessage:80
+        ----------Sending
+jar:file:/home/dyue2/.extract/webapps/fftools/WEB-INF/lib/firefly.jar!/edu/caltech/ipac/firefly/server/cache/resources/shared_ehcache.xml
+----------Received Headers
+10/16 11:59:38  INFO   Thread: localhost-startStop-1  download.URLDownload#printMessage:80
+        jar:file:/home/dyue2/.extract/webapps/fftools/WEB-INF/lib/firefly.jar!/edu/caltech/ipac/firefly/server/cache/resources/shared_ehcache.xml
+Download Complete: shared_ehcache.xml : 15961 bytes
+10/16 11:59:38  INFO   Thread: localhost-startStop-1  download.URLDownload#printMessage:80
+        ----------Sending
+jar:file:/home/dyue2/.extract/webapps/fftools/WEB-INF/lib/firefly.jar!/edu/caltech/ipac/firefly/server/cache/resources/ignore_sizeof.txt
+----------Received Headers
+10/16 11:59:38  INFO   Thread: localhost-startStop-1  download.URLDownload#printMessage:80
+        jar:file:/home/dyue2/.extract/webapps/fftools/WEB-INF/lib/firefly.jar!/edu/caltech/ipac/firefly/server/cache/resources/ignore_sizeof.txt
+Download Complete: ignore_sizeof.txt : 163 bytes
+10/16 11:59:38  INFO   Thread: localhost-startStop-1  cache.EhcacheProvider#<clinit>:84
+        shared cache manager config file: /home/dyue2/.extract/webapps/fftools/WEB-INF/config/shared_ehcache.xml
+10/16 11:59:38  INFO   Thread: localhost-startStop-1  server.ServerContext#configInit:168
+        CACHE_PROVIDER = edu.caltech.ipac.firefly.server.cache.EhcacheProvider
+WORK_DIR = /home/dyue2/.extract/temp/workarea/fftools
+DEBUG_MODE = false
+10/16 11:59:38  INFO   Thread: localhost-startStop-1  server.ServerContext#initVisSearchPath:197
+        visualize.fits.search.path loaded: 
+/irsadata
+/hydra/alerts
+/hydra/workarea/fftools
+@wise.filesystem_basepath@
+@planck.filesystem_basepath@
+@ptf.filesystem_basepath@
+@lcogt.filesystem_basepath@
+@lsst.filesystem_basepath@
+All local loaded FITS files must resides in these directories or sub-directories
+10/16 11:59:38  INFO   Thread: localhost-startStop-1  visualize.VisContext#init:99
+        Working dir: /home/dyue2/.extract/temp/workarea/fftools
+10/16 11:59:41 DEBUG   Thread: localhost-startStop-1  query.SearchProcessorFactory#init:59
+        Getting search processors took 2330ms
+10/16 11:59:41  INFO   Thread: localhost-startStop-1  query.SearchProcessorFactory#logSearchProcessors:98
+        
+SEARCH PROCESSORS (search request id - processor class)
+   "ibe_processor" - edu.caltech.ipac.firefly.server.persistence.QueryIBE
+        param: mission              - mission
+        param: UserTargetWorldPt    - the target point, a serialized WorldPt object
+        param: radius               - radius in degrees
+        param: mcenter              - Specifies whether to return only the most centered (in pixel space) image-set for the given input position.
+   "RTreeInventory" - edu.caltech.ipac.firefly.server.persistence.QueryRTreeInventory
+        param: UserTargetWorldPt    - the target point, a serialized WorldPt object
+        param: radius               - radius in degrees
+        param: dataset              - data set to search for images in.
+   "2MassQuerySIA" - edu.caltech.ipac.firefly.server.persistence.Query2MassSIA
+        param: UserTargetWorldPt    - the target point, a serialized WorldPt object
+        param: radius               - radius in degrees
+        param: type                 - at (Atlas, default) or ql (Quicklook).
+        param: ds                   - The 2MASS data set to search for images in.
+        param: hem                  - The hemisphere of the 2MASS observatory where the FITS images to return were taken: n or s.
+        param: band                 - Limits 2MASS images returned to those with the given 2MASS Band: A (all), J, H, K.
+        param: scan                 - The nightly scan number (a positive integer) of the FITS images to return.
+   "LSSTCatalogQuery" - edu.caltech.ipac.firefly.server.persistence.QueryLSSTCatalog
+        param: RequestedDataSet     - catalog table to query
+        param: UserTargetWorldPt    - the target point, a serialized WorldPt object
+        param: radius               - radius in degrees for cone search
+        param: size                 - size in degrees for box search
+        param: selcols              - a comma separated list of columns to return, empty gives the default list
+        param: constraints          - a where fragment of the column constrains
+   "ConeSearchByURL" - edu.caltech.ipac.firefly.server.persistence.QueryByConeSearchURL
+        param: UserTargetWorldPt    - the target point, a serialized WorldPt object
+        param: radius               - radius in degrees
+        param: accessUrl            - access URL
+        param: title                - catalog title
+   "searchHistory" - edu.caltech.ipac.firefly.server.persistence.QuerySearchHistory
+   "tags" - edu.caltech.ipac.firefly.server.persistence.QueryTags
+   "ibe_file_retrieve" - edu.caltech.ipac.firefly.server.persistence.IbeFileRetrieve
+        param: mission              - mission
+   "LSSTCatalogDD" - edu.caltech.ipac.firefly.server.persistence.QueryLSSTCatalogDD
+        param: catalog              - catalog table to query
+   "catScan" - edu.caltech.ipac.firefly.server.catquery.CatScanQuery
+   "GatorQuery" - edu.caltech.ipac.firefly.server.catquery.GatorQuery
+        param: SearchMethod         - values: Cone, Eliptical, Box, Polygon, Table, AllSky
+        param: radius               - float, the radius of the code search
+        param: size                 - float, the length of a side for a box search
+        param: radunits             - the units for the radius or side, must be arcsec,arcmin,degree, default arcsec
+        param: catalog              - the catalog name to search
+        param: RaDecJ2000           - the ra and dec in j2000 separated by a space
+        param: filename             - for upload, not yet used
+        param: posang               - pa for elliptical request
+        param: ratio                - ratio for elliptical request
+        param: polygon              - a set of coordinate pairs (up to 15), eg. 20.5 21.5, 20.5 20.5, 21.5 20.5
+        param: selcols              - a comma separated list of columns to return, empty gives the default list
+        param: constraints          - a where fragment of the column constrains
+        param: database             - the database to search against
+        param: server               - i am not sure what this one means
+        param: ddfile               - the dd file to use
+        param: onlist               - search catalog that is on list, optional: default true
+        param: xpffile              - the xpf file to be used on the server when SearchMethod is Table, not used for other SearchMethods, optional when onlist is true, required when onlist is false.  example xpf file: /xpf/catupd.fp_psc.xpf
+        param: GatorHost            - The hostname for the gator URL. optional: almost never used
+        param: Service              - the part of the URL string that specifies the service and first params. optional: almost never used
+        param: use                  - how this catalog will be used on the client: value: primary or overlay; default overlay.  if overlay then the meta value CatalogOverlayType is set otherwise it is not
+   "GatorDD" - edu.caltech.ipac.firefly.server.catquery.GatorDD
+        param: catalog              - the catalog name to search
+        param: database             - the database to search against
+        param: server               - i am not sure what this one means
+        param: ddfile               - the dd file to use
+        param: short                - use the short form on a cat dd query, optional: default true
+        param: onlist               - search catalog that is on list, optional: default true
+        param: GatorHost            - The hostname for the gator URL. optional: almost never used
+        param: Service              - the part of the URL string that specifies the service and first params. optional: almost never used
+   "irsaCatalogMasterTable" - edu.caltech.ipac.firefly.server.catquery.CatMasterTableQuery
+   "SDSSQuery" - edu.caltech.ipac.firefly.server.catquery.SDSSQuery
+        param: radiusArcMin         - float, the radius in arcminutes
+        param: UserTargetWorldPt    - WorldPt string: ra;dec;coord_sys
+        param: filename             - for upload, not yet used
+        param: nearest_only         - return only one match per target
+   "catSummary" - edu.caltech.ipac.firefly.server.catquery.CatSummaryQuery
+        param: ra_dec_radius        - comma separated ra, dec, radius in degrees
+        param: projshort            - project
+   "WiseFileRetrieve" - edu.caltech.ipac.firefly.server.query.wise.WiseFileRetrieve
+   "WiseQuery" - edu.caltech.ipac.firefly.server.query.wise.QueryWise
+        param: host                 - (optional) the hostname, including port
+        param: schemaGroup          - the name of the schema group
+        param: schema               - the name of the schema within the schema group
+        param: POS                  - ra,dec: the search region center in decimal degrees, must be in equatorial J2000 (FK5)
+        param: SIZE                 - (optional) x[,y]: the search region size - a rectangle centered on ra,dec with a width of x degrees and height of y degrees, where the y axis points north from (ra,dec). if y is omitted, it defaults to the value for x. if omitted altogether, the search region becomes a point.
+        param: mcen                 - (optional) mcen: search for the most centered image covering the position.  This parameter is ignored for region searches.
+        param: intersect            - (optional) values: OVERLAPS (default), COVERS, ENCLOSED, or CENTER. OVERLAPS: The candidate image overlaps the search region, COVERS: The candidate image covers or includes the entire search region, ENCLOSED: The candidate image is entirely enclosed by the search region, CENTER: The candidate image contains the search region center (ra,dec) (SIZE is ignored)
+   "MOSQuery" - edu.caltech.ipac.firefly.server.query.mos.QueryMOS
+   "inventorySearch" - edu.caltech.ipac.firefly.server.query.inventory.InventorySearch
+   "inventorySummary" - edu.caltech.ipac.firefly.server.query.inventory.InventorySummary
+   "MultiMissionFileRetrieve" - edu.caltech.ipac.firefly.server.query.MultiMissionFileRetrieve
+   "TableFromExternalTask" - edu.caltech.ipac.firefly.server.query.IpacTableFromExternalTask
+   "FileFromExternalTask" - edu.caltech.ipac.firefly.server.query.FileFromExternalTask
+   "JsonFromExternalTask" - edu.caltech.ipac.firefly.server.query.JsonFromExternalTask
+   "userCatalogFromFile" - edu.caltech.ipac.firefly.server.query.UserCatalogQuery
+   "IpacTableFromSource" - edu.caltech.ipac.firefly.server.query.IpacTableFromSource
+   "resultSearch" - edu.caltech.ipac.firefly.server.query.TableResultSearch
+        param: loadTable            - name of the ipac table in the upload directory
+        param: cacheKey             - the cache key with more parameters
+   "defaultDownload" - edu.caltech.ipac.firefly.server.download.DynFileGroupsProcessor
+   "resultViewerDownload" - edu.caltech.ipac.firefly.server.download.ResultViewerFileGroupsProcessor
+
+10/16 11:59:44  INFO   Thread: http-bio-8080-exec-6  download.URLDownload#printMessage:80
+        lsst.illinois.edu: url=http://lsst.illinois.edu/static/images/image.fits
+10/16 11:59:44  WARN   Thread: http-bio-8080-exec-6  download.URLDownload#printMessage:80
+        ----------Network Error-----------
+----------Sending
+http://lsst.illinois.edu/static/images/image.fits
+----------Exception 
+java.net.UnknownHostException: lsst.illinois.edu
+10/16 11:59:44  WARN   Thread: http-bio-8080-exec-6  visualize.VisServerOps#createError:1554
+        on createPlot
+Request: WebPlotRequest:  URL: http://lsst.illinois.edu/static/images/image.fits
+edu.caltech.ipac.util.download.FailedRequestException: Could not create plot. 
+
+========---------- Detailed Message -----------=========
+Details in exception: IO problem
+
+========---------- Location -----------=========
+Class:  WebPlotFactory
+Method: create
+File:   WebPlotFactory.java
+Line:   240
+Thread: http-bio-8080-exec-6
+	at edu.caltech.ipac.firefly.server.visualize.WebPlotFactory.create(WebPlotFactory.java:240)
+	at edu.caltech.ipac.firefly.server.visualize.WebPlotFactory.createNew(WebPlotFactory.java:112)
+	at edu.caltech.ipac.firefly.server.visualize.VisServerOps.createPlot(VisServerOps.java:189)
+	at edu.caltech.ipac.firefly.server.rpc.PlotServiceImpl.getWebPlot(PlotServiceImpl.java:141)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.google.gwt.user.server.rpc.RPC.invokeAndEncodeResponse(RPC.java:587)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processCall(RemoteServiceServlet.java:333)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processCall(RemoteServiceServlet.java:303)
+	at edu.caltech.ipac.firefly.server.rpc.BaseRemoteService.processCall(BaseRemoteService.java:53)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processPost(RemoteServiceServlet.java:373)
+	at com.google.gwt.user.server.rpc.AbstractRemoteServiceServlet.doPost(AbstractRemoteServiceServlet.java:62)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:646)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at edu.caltech.ipac.firefly.server.filters.CommonFilter.doFilter(CommonFilter.java:57)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:683)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:421)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1074)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:611)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+10/16 11:59:59  INFO   Thread: http-bio-8080-exec-9  download.URLDownload#printMessage:80
+        lsst.illinois.edu: url=http://lsst.illinois.edu/static/images/image.fits
+10/16 11:59:59  WARN   Thread: http-bio-8080-exec-9  download.URLDownload#printMessage:80
+        ----------Network Error-----------
+----------Sending
+http://lsst.illinois.edu/static/images/image.fits
+----------Exception 
+java.net.UnknownHostException: lsst.illinois.edu
+10/16 11:59:59  WARN   Thread: http-bio-8080-exec-9  visualize.VisServerOps#createError:1554
+        on createPlot
+Request: WebPlotRequest:  URL: http://lsst.illinois.edu/static/images/image.fits
+edu.caltech.ipac.util.download.FailedRequestException: Could not create plot. 
+
+========---------- Detailed Message -----------=========
+Details in exception: IO problem
+
+========---------- Location -----------=========
+Class:  WebPlotFactory
+Method: create
+File:   WebPlotFactory.java
+Line:   240
+Thread: http-bio-8080-exec-9
+	at edu.caltech.ipac.firefly.server.visualize.WebPlotFactory.create(WebPlotFactory.java:240)
+	at edu.caltech.ipac.firefly.server.visualize.WebPlotFactory.createNew(WebPlotFactory.java:112)
+	at edu.caltech.ipac.firefly.server.visualize.VisServerOps.createPlot(VisServerOps.java:189)
+	at edu.caltech.ipac.firefly.server.rpc.PlotServiceImpl.getWebPlot(PlotServiceImpl.java:141)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.google.gwt.user.server.rpc.RPC.invokeAndEncodeResponse(RPC.java:587)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processCall(RemoteServiceServlet.java:333)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processCall(RemoteServiceServlet.java:303)
+	at edu.caltech.ipac.firefly.server.rpc.BaseRemoteService.processCall(BaseRemoteService.java:53)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processPost(RemoteServiceServlet.java:373)
+	at com.google.gwt.user.server.rpc.AbstractRemoteServiceServlet.doPost(AbstractRemoteServiceServlet.java:62)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:646)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at edu.caltech.ipac.firefly.server.filters.CommonFilter.doFilter(CommonFilter.java:57)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:683)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:421)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1074)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:611)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+10/16 12:00:09  INFO   Thread: http-bio-8080-exec-5  download.URLDownload#printMessage:80
+        lsst.illinois.edu: url=http://lsst.illinois.edu/static/images/image.fits
+10/16 12:00:09  WARN   Thread: http-bio-8080-exec-5  download.URLDownload#printMessage:80
+        ----------Network Error-----------
+----------Sending
+http://lsst.illinois.edu/static/images/image.fits
+----------Exception 
+java.net.UnknownHostException: lsst.illinois.edu
+10/16 12:00:09  WARN   Thread: http-bio-8080-exec-5  visualize.VisServerOps#createError:1554
+        on createPlot
+Request: WebPlotRequest:  URL: http://lsst.illinois.edu/static/images/image.fits
+edu.caltech.ipac.util.download.FailedRequestException: Could not create plot. 
+
+========---------- Detailed Message -----------=========
+Details in exception: IO problem
+
+========---------- Location -----------=========
+Class:  WebPlotFactory
+Method: create
+File:   WebPlotFactory.java
+Line:   240
+Thread: http-bio-8080-exec-5
+	at edu.caltech.ipac.firefly.server.visualize.WebPlotFactory.create(WebPlotFactory.java:240)
+	at edu.caltech.ipac.firefly.server.visualize.WebPlotFactory.createNew(WebPlotFactory.java:112)
+	at edu.caltech.ipac.firefly.server.visualize.VisServerOps.createPlot(VisServerOps.java:189)
+	at edu.caltech.ipac.firefly.server.rpc.PlotServiceImpl.getWebPlot(PlotServiceImpl.java:141)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.google.gwt.user.server.rpc.RPC.invokeAndEncodeResponse(RPC.java:587)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processCall(RemoteServiceServlet.java:333)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processCall(RemoteServiceServlet.java:303)
+	at edu.caltech.ipac.firefly.server.rpc.BaseRemoteService.processCall(BaseRemoteService.java:53)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processPost(RemoteServiceServlet.java:373)
+	at com.google.gwt.user.server.rpc.AbstractRemoteServiceServlet.doPost(AbstractRemoteServiceServlet.java:62)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:646)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at edu.caltech.ipac.firefly.server.filters.CommonFilter.doFilter(CommonFilter.java:57)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:683)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:421)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1074)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:611)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+10/16 12:00:50  INFO   Thread: http-bio-8080-exec-6  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/static/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 09 Oct 2015 18:15:37 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 17:00:50 GMT
+10/16 12:00:51  INFO   Thread: http-bio-8080-exec-6  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/static/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits : 71308800 bytes
+10/16 12:00:52  INFO   Thread: http-bio-8080-exec-6  visualize.FitsCacher#readFits:73
+        Read Fits: 1.140 sec, 68.0M: URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits
+10/16 12:00:52  INFO   Thread: http-bio-8080-exec-6  visualize.CtxControl#getMap:256
+        New session or cache was cleared: Creating new PlotClientCtxContainer
+key: VisContext-OnePerUser-1aa77e7f-b93e-406c-bf74-707a85203e51
+10/16 12:00:54  INFO   Thread: http-bio-8080-exec-6  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 4.375 sec, Find-   809 ms, Read-1.173 sec, Ctx:WebPlot-lsst--1
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/static/images/image.fits, ctxStr: WebPlot-lsst--1, zoom: 0.11534926, color id: 0, 3 color: false
+10/16 12:38:25  INFO   Thread: http-bio-8080-exec-9  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/static/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 09 Oct 2015 18:15:37 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 17:38:25 GMT
+10/16 12:38:26  INFO   Thread: http-bio-8080-exec-9  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/static/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits : 71308800 bytes
+10/16 12:38:27  INFO   Thread: http-bio-8080-exec-9  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 1.914 sec, Find- 1.67 sec, Read-     1 ms, Ctx:WebPlot-lsst--2
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/static/images/image.fits, ctxStr: WebPlot-lsst--2, zoom: 0.11534926, color id: 0, 3 color: false
+10/16 12:39:36  INFO   Thread: http-bio-8080-exec-8  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/static/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 09 Oct 2015 18:15:37 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 17:39:36 GMT
+10/16 12:39:37  INFO   Thread: http-bio-8080-exec-8  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/static/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits : 71308800 bytes
+10/16 12:39:37  INFO   Thread: http-bio-8080-exec-8  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 1.223 sec, Find-   559 ms, Read-     0 ms, Ctx:WebPlot-lsst--3
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/static/images/image.fits, ctxStr: WebPlot-lsst--3, zoom: 0.11534926, color id: 0, 3 color: false
+10/16 12:41:30  INFO   Thread: http-bio-8080-exec-3  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/static/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 09 Oct 2015 18:15:37 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 17:41:30 GMT
+10/16 12:41:31  INFO   Thread: http-bio-8080-exec-3  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/static/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits : 71308800 bytes
+10/16 12:41:32  INFO   Thread: http-bio-8080-exec-3  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 1.219 sec, Find-   673 ms, Read-     0 ms, Ctx:WebPlot-lsst--4
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/static/images/image.fits, ctxStr: WebPlot-lsst--4, zoom: 0.11534926, color id: 0, 3 color: false
+10/16 12:43:04  INFO   Thread: http-bio-8080-exec-2  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/static/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 09 Oct 2015 18:15:37 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 17:43:04 GMT
+10/16 12:43:05  INFO   Thread: http-bio-8080-exec-2  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/static/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits : 71308800 bytes
+10/16 12:43:05  INFO   Thread: http-bio-8080-exec-2  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 1.183 sec, Find-   622 ms, Read-     1 ms, Ctx:WebPlot-lsst--5
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/static/images/image.fits, ctxStr: WebPlot-lsst--5, zoom: 0.11534926, color id: 0, 3 color: false
+10/16 12:44:57  INFO   Thread: http-bio-8080-exec-4  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/static/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 09 Oct 2015 18:15:37 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 17:44:57 GMT
+10/16 12:44:58  INFO   Thread: http-bio-8080-exec-4  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/static/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits : 71308800 bytes
+10/16 12:44:58  INFO   Thread: http-bio-8080-exec-4  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 1.168 sec, Find-   521 ms, Read-     0 ms, Ctx:WebPlot-lsst--6
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/static/images/image.fits, ctxStr: WebPlot-lsst--6, zoom: 0.11534926, color id: 0, 3 color: false
+10/16 12:45:32  INFO   Thread: http-bio-8080-exec-10  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/static/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 09 Oct 2015 18:15:37 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 17:45:32 GMT
+10/16 12:45:33  INFO   Thread: http-bio-8080-exec-10  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/static/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits : 71308800 bytes
+10/16 12:45:34  INFO   Thread: http-bio-8080-exec-10  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 1.509 sec, Find-   534 ms, Read-     1 ms, Ctx:WebPlot-lsst--7
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/static/images/image.fits, ctxStr: WebPlot-lsst--7, zoom: 0.11534926, color id: 0, 3 color: false
+10/16 12:46:24  INFO   Thread: http-bio-8080-exec-10  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/static/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 09 Oct 2015 18:15:37 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 17:46:24 GMT
+10/16 12:46:25  INFO   Thread: http-bio-8080-exec-10  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/static/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits : 71308800 bytes
+10/16 12:46:26  INFO   Thread: http-bio-8080-exec-10  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 1.615 sec, Find-   758 ms, Read-     1 ms, Ctx:WebPlot-lsst--8
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/static/images/image.fits, ctxStr: WebPlot-lsst--8, zoom: 0.11534926, color id: 0, 3 color: false
+10/16 12:47:43  INFO   Thread: http-bio-8080-exec-10  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/static/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 09 Oct 2015 18:15:37 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 17:47:43 GMT
+10/16 12:47:43  INFO   Thread: http-bio-8080-exec-10  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/static/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits : 71308800 bytes
+10/16 12:47:44  INFO   Thread: http-bio-8080-exec-10  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 1.80 sec, Find-   630 ms, Read-     0 ms, Ctx:WebPlot-lsst--9
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/static/images/image.fits, ctxStr: WebPlot-lsst--9, zoom: 0.11534926, color id: 0, 3 color: false
+10/16 12:50:38  INFO   Thread: http-bio-8080-exec-6  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/static/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 09 Oct 2015 18:15:37 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 17:50:38 GMT
+10/16 12:50:39  INFO   Thread: http-bio-8080-exec-6  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/static/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits : 71308800 bytes
+10/16 12:50:40  INFO   Thread: http-bio-8080-exec-6  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 1.705 sec, Find-   875 ms, Read-     0 ms, Ctx:WebPlot-lsst--10
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/static/images/image.fits, ctxStr: WebPlot-lsst--10, zoom: 0.11534926, color id: 0, 3 color: false
+10/16 12:55:45  INFO   Thread: http-bio-8080-exec-3  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/static/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 09 Oct 2015 18:15:37 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 17:55:45 GMT
+10/16 12:55:45  INFO   Thread: http-bio-8080-exec-3  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/static/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits : 71308800 bytes
+10/16 12:55:46  INFO   Thread: http-bio-8080-exec-3  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 1.190 sec, Find-   594 ms, Read-     1 ms, Ctx:WebPlot-lsst--11
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/static/images/image.fits, ctxStr: WebPlot-lsst--11, zoom: 0.11534926, color id: 0, 3 color: false
+10/16 12:56:05  INFO   Thread: http-bio-8080-exec-8  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/static/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 09 Oct 2015 18:15:37 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 17:56:05 GMT
+10/16 12:56:06  INFO   Thread: http-bio-8080-exec-8  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/static/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits : 71308800 bytes
+10/16 12:56:06  INFO   Thread: http-bio-8080-exec-8  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 1.255 sec, Find-   553 ms, Read-     0 ms, Ctx:WebPlot-lsst--12
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/static/images/image.fits, ctxStr: WebPlot-lsst--12, zoom: 0.11534926, color id: 0, 3 color: false
+10/16 13:01:38  INFO   Thread: http-bio-8080-exec-4  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/static/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 09 Oct 2015 18:15:37 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 18:01:38 GMT
+10/16 13:01:39  INFO   Thread: http-bio-8080-exec-4  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/static/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits : 71308800 bytes
+10/16 13:01:39  INFO   Thread: http-bio-8080-exec-4  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 1.403 sec, Find-   597 ms, Read-     0 ms, Ctx:WebPlot-lsst--13
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/static/images/image.fits, ctxStr: WebPlot-lsst--13, zoom: 0.11534926, color id: 0, 3 color: false
+10/16 13:07:14  INFO   Thread: http-bio-8080-exec-2  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/static/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 09 Oct 2015 18:15:37 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 18:07:14 GMT
+10/16 13:07:15  INFO   Thread: http-bio-8080-exec-2  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/static/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits : 71308800 bytes
+10/16 13:07:16  INFO   Thread: http-bio-8080-exec-2  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 1.498 sec, Find-   659 ms, Read-     1 ms, Ctx:WebPlot-lsst--14
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/static/images/image.fits, ctxStr: WebPlot-lsst--14, zoom: 0.11534926, color id: 0, 3 color: false
+10/16 13:09:08  INFO   Thread: http-bio-8080-exec-5  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/static/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 09 Oct 2015 18:15:37 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 18:09:08 GMT
+10/16 13:09:09  INFO   Thread: http-bio-8080-exec-5  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/static/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits : 71308800 bytes
+10/16 13:09:10  INFO   Thread: http-bio-8080-exec-5  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 1.303 sec, Find-   710 ms, Read-     0 ms, Ctx:WebPlot-lsst--15
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/static/images/image.fits, ctxStr: WebPlot-lsst--15, zoom: 0.11534926, color id: 0, 3 color: false
+10/16 13:12:22  INFO   Thread: http-bio-8080-exec-7  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/static/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 09 Oct 2015 18:15:37 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 18:12:22 GMT
+10/16 13:12:22  INFO   Thread: http-bio-8080-exec-7  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/static/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits : 71308800 bytes
+10/16 13:12:23  INFO   Thread: http-bio-8080-exec-7  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 1.117 sec, Find-   551 ms, Read-     1 ms, Ctx:WebPlot-lsst--16
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu-742775133-staticimagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/static/images/image.fits, ctxStr: WebPlot-lsst--16, zoom: 0.11534926, color id: 0, 3 color: false
+10/16 13:28:37  INFO   Thread: http-bio-8080-exec-5  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 16 Oct 2015 18:27:14 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 18:28:37 GMT
+10/16 13:28:37  INFO   Thread: http-bio-8080-exec-5  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits : 71308800 bytes
+10/16 13:28:38  INFO   Thread: http-bio-8080-exec-5  visualize.FitsCacher#readFits:73
+        Read Fits: 762 ms, 68.0M: URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits
+10/16 13:28:39  INFO   Thread: http-bio-8080-exec-5  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 2.116 sec, Find-   588 ms, Read-   780 ms, Ctx:WebPlot-lsst--17
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/images/image.fits, ctxStr: WebPlot-lsst--17, zoom: 0.11534926, color id: 0, 3 color: false
+10/16 13:56:44  INFO   Thread: http-bio-8080-exec-4  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 16 Oct 2015 18:27:14 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 18:56:44 GMT
+10/16 13:56:45  INFO   Thread: http-bio-8080-exec-4  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits : 71308800 bytes
+10/16 13:56:45  INFO   Thread: http-bio-8080-exec-4  visualize.CtxControl#getMap:256
+        New session or cache was cleared: Creating new PlotClientCtxContainer
+key: VisContext-OnePerUser-8f8e47ae-6112-4b37-8f8f-80aee649fc0b
+10/16 13:56:45  INFO   Thread: http-bio-8080-exec-4  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 1.23 sec, Find-   584 ms, Read-     1 ms, Ctx:WebPlot-lsst--18
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/images/image.fits, ctxStr: WebPlot-lsst--18, zoom: 0.11534926, color id: 0, 3 color: false
+10/16 13:57:04  INFO   Thread: http-bio-8080-exec-3  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 16 Oct 2015 18:27:14 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 18:57:04 GMT
+10/16 13:57:04  INFO   Thread: http-bio-8080-exec-3  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits : 71308800 bytes
+10/16 13:57:05  INFO   Thread: http-bio-8080-exec-3  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 954 ms, Find-   470 ms, Read-     0 ms, Ctx:WebPlot-lsst--19
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/images/image.fits, ctxStr: WebPlot-lsst--19, zoom: 0.11534926, color id: 0, 3 color: false
+10/16 14:11:42  INFO   Thread: http-bio-8080-exec-5  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 16 Oct 2015 18:27:14 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 19:11:42 GMT
+10/16 14:11:42  INFO   Thread: http-bio-8080-exec-5  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits : 71308800 bytes
+10/16 14:11:43  INFO   Thread: http-bio-8080-exec-5  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 20.46 sec, Find-19.76 sec, Read-     1 ms, Ctx:WebPlot-lsst--20
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/images/image.fits, ctxStr: WebPlot-lsst--20, zoom: 0.11534926, color id: 0, 3 color: false
+10/16 14:16:41  INFO   Thread: http-bio-8080-exec-10  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 16 Oct 2015 18:27:14 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 19:16:41 GMT
+10/16 14:16:42  INFO   Thread: http-bio-8080-exec-10  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits : 71308800 bytes
+10/16 14:16:42  INFO   Thread: http-bio-8080-exec-10  visualize.CtxControl#getMap:256
+        New session or cache was cleared: Creating new PlotClientCtxContainer
+key: VisContext-OnePerUser-52379b63-3b8f-44d5-a35c-0a1dd9296b81
+10/16 14:16:42  INFO   Thread: http-bio-8080-exec-10  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 1.84 sec, Find-   545 ms, Read-     0 ms, Ctx:WebPlot-lsst--21
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/images/image.fits, ctxStr: WebPlot-lsst--21, zoom: 0.08777574, color id: 0, 3 color: false
+10/16 14:22:31  INFO   Thread: http-bio-8080-exec-10  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 16 Oct 2015 18:27:14 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 19:22:31 GMT
+10/16 14:22:31  INFO   Thread: http-bio-8080-exec-10  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits : 71308800 bytes
+10/16 14:22:32  INFO   Thread: http-bio-8080-exec-10  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 11.338 sec, Find-10.379 sec, Read-     0 ms, Ctx:WebPlot-lsst--22
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/images/image.fits, ctxStr: WebPlot-lsst--22, zoom: 0.11534926, color id: 0, 3 color: false
+10/16 14:22:33  INFO   Thread: http-bio-8080-exec-6  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 16 Oct 2015 18:27:14 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 19:22:33 GMT
+10/16 14:22:33  INFO   Thread: http-bio-8080-exec-6  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits : 71308800 bytes
+10/16 14:22:33  INFO   Thread: http-bio-8080-exec-6  visualize.CtxControl#getMap:256
+        New session or cache was cleared: Creating new PlotClientCtxContainer
+key: VisContext-OnePerUser-5aa3323f-0dce-4d9a-a7aa-70d2769cddf7
+10/16 14:22:33  INFO   Thread: http-bio-8080-exec-6  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 824 ms, Find-   396 ms, Read-     0 ms, Ctx:WebPlot-lsst--23
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/images/image.fits, ctxStr: WebPlot-lsst--23, zoom: 0.06227022, color id: 0, 3 color: false
+10/16 14:22:54  INFO   Thread: http-bio-8080-exec-9  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 16 Oct 2015 18:27:14 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 19:22:54 GMT
+10/16 14:22:54  INFO   Thread: http-bio-8080-exec-9  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits : 71308800 bytes
+10/16 14:22:54  INFO   Thread: http-bio-8080-exec-9  visualize.CtxControl#getMap:256
+        New session or cache was cleared: Creating new PlotClientCtxContainer
+key: VisContext-OnePerUser-9e0295f3-0104-4652-b5cb-e3affb08f202
+10/16 14:22:54  INFO   Thread: http-bio-8080-exec-9  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 832 ms, Find-   376 ms, Read-     0 ms, Ctx:WebPlot-lsst--24
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/images/image.fits, ctxStr: WebPlot-lsst--24, zoom: 0.11029412, color id: 0, 3 color: false
+10/16 14:24:23  INFO   Thread: http-bio-8080-exec-11  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 16 Oct 2015 18:27:14 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 19:24:23 GMT
+10/16 14:24:23  INFO   Thread: http-bio-8080-exec-11  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits : 71308800 bytes
+10/16 14:24:23  INFO   Thread: http-bio-8080-exec-11  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 829 ms, Find-   335 ms, Read-     0 ms, Ctx:WebPlot-lsst--25
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/images/image.fits, ctxStr: WebPlot-lsst--25, zoom: 0.11557905, color id: 0, 3 color: false
+10/16 14:27:41  INFO   Thread: http-bio-8080-exec-13  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 16 Oct 2015 18:27:14 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 19:27:41 GMT
+10/16 14:27:42  INFO   Thread: http-bio-8080-exec-13  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits : 71308800 bytes
+10/16 14:27:42  INFO   Thread: http-bio-8080-exec-13  visualize.CtxControl#getMap:256
+        New session or cache was cleared: Creating new PlotClientCtxContainer
+key: VisContext-OnePerUser-778cf2e3-ec97-4251-8988-0063e9fae2e8
+10/16 14:27:42  INFO   Thread: http-bio-8080-exec-13  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 924 ms, Find-   442 ms, Read-     1 ms, Ctx:WebPlot-lsst--26
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/images/image.fits, ctxStr: WebPlot-lsst--26, zoom: 0.092601106, color id: 0, 3 color: false
+10/16 14:29:22  INFO   Thread: http-bio-8080-exec-18  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 16 Oct 2015 18:27:14 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 19:29:22 GMT
+10/16 14:29:22  INFO   Thread: http-bio-8080-exec-18  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits : 71308800 bytes
+10/16 14:29:22  INFO   Thread: http-bio-8080-exec-18  visualize.CtxControl#getMap:256
+        New session or cache was cleared: Creating new PlotClientCtxContainer
+key: VisContext-OnePerUser-3936d414-8955-479e-bf42-806a9d5bfcb1
+10/16 14:29:23  INFO   Thread: http-bio-8080-exec-18  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 1.93 sec, Find-   631 ms, Read-     0 ms, Ctx:WebPlot-lsst--27
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/images/image.fits, ctxStr: WebPlot-lsst--27, zoom: 0.12798713, color id: 0, 3 color: false
+10/16 14:29:55  INFO   Thread: http-bio-8080-exec-28  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 16 Oct 2015 18:27:14 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 19:29:55 GMT
+10/16 14:29:55  INFO   Thread: http-bio-8080-exec-28  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits : 71308800 bytes
+10/16 14:29:55  INFO   Thread: http-bio-8080-exec-28  visualize.CtxControl#getMap:256
+        New session or cache was cleared: Creating new PlotClientCtxContainer
+key: VisContext-OnePerUser-25dbeac5-0b09-4208-8398-2b2dac7caec6
+10/16 14:29:56  INFO   Thread: http-bio-8080-exec-28  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 922 ms, Find-   372 ms, Read-     0 ms, Ctx:WebPlot-lsst--28
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/images/image.fits, ctxStr: WebPlot-lsst--28, zoom: 0.2734375, color id: 0, 3 color: false
+10/16 14:30:42  WARN   Thread: http-bio-8080-exec-3  visualize.VisServerOps#createError:1554
+        on recomputeStretch
+Context String: WebPlot-lsst--24
+Fits Filename: /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits
+java.lang.ArrayIndexOutOfBoundsException: -710
+	at edu.caltech.ipac.visualize.plot.Zscale.cdl_zscale(Zscale.java:94)
+	at edu.caltech.ipac.visualize.plot.FitsRead.getZscaleValue(FitsRead.java:827)
+	at edu.caltech.ipac.visualize.plot.FitsRead.getSlow(FitsRead.java:852)
+	at edu.caltech.ipac.visualize.plot.FitsRead.doStretch(FitsRead.java:802)
+	at edu.caltech.ipac.visualize.plot.ImageData.recomputeStretch(ImageData.java:149)
+	at edu.caltech.ipac.visualize.plot.ImageDataGroup.recomputeStretch(ImageDataGroup.java:138)
+	at edu.caltech.ipac.visualize.plot.HistogramOps.recomputeStretch(HistogramOps.java:40)
+	at edu.caltech.ipac.visualize.plot.HistogramOps.recomputeStretch(HistogramOps.java:36)
+	at edu.caltech.ipac.firefly.server.visualize.VisServerOps.recomputeStretch(VisServerOps.java:460)
+	at edu.caltech.ipac.firefly.server.visualize.VisServerOps.recomputeStretch(VisServerOps.java:445)
+	at edu.caltech.ipac.firefly.server.rpc.PlotServiceImpl.recomputeStretch(PlotServiceImpl.java:59)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.google.gwt.user.server.rpc.RPC.invokeAndEncodeResponse(RPC.java:587)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processCall(RemoteServiceServlet.java:333)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processCall(RemoteServiceServlet.java:303)
+	at edu.caltech.ipac.firefly.server.rpc.BaseRemoteService.processCall(BaseRemoteService.java:53)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processPost(RemoteServiceServlet.java:373)
+	at com.google.gwt.user.server.rpc.AbstractRemoteServiceServlet.doPost(AbstractRemoteServiceServlet.java:62)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:646)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at edu.caltech.ipac.firefly.server.filters.CommonFilter.doFilter(CommonFilter.java:57)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:683)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:421)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1074)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:611)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+10/16 14:30:45  INFO   Thread: http-bio-8080-exec-36  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 16 Oct 2015 18:27:14 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 19:30:45 GMT
+10/16 14:30:46  INFO   Thread: http-bio-8080-exec-36  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits : 71308800 bytes
+10/16 14:30:46  INFO   Thread: http-bio-8080-exec-36  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 1.208 sec, Find-   619 ms, Read-     0 ms, Ctx:WebPlot-lsst--29
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/images/image.fits, ctxStr: WebPlot-lsst--29, zoom: 0.2734375, color id: 0, 3 color: false
+10/16 14:30:48  INFO   Thread: http-bio-8080-exec-3  visualize.CtxControl#revalidatePlot:99
+        revalidation success: WebPlot-lsst--24
+time: 1 ms, file size: 68.0M
+10/16 14:30:51  WARN   Thread: http-bio-8080-exec-3  visualize.VisServerOps#createError:1554
+        on recomputeStretch
+Context String: WebPlot-lsst--24
+Fits Filename: /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits
+java.lang.ArrayIndexOutOfBoundsException: -710
+	at edu.caltech.ipac.visualize.plot.Zscale.cdl_zscale(Zscale.java:94)
+	at edu.caltech.ipac.visualize.plot.FitsRead.getZscaleValue(FitsRead.java:827)
+	at edu.caltech.ipac.visualize.plot.FitsRead.getSlow(FitsRead.java:852)
+	at edu.caltech.ipac.visualize.plot.FitsRead.doStretch(FitsRead.java:802)
+	at edu.caltech.ipac.visualize.plot.ImageData.recomputeStretch(ImageData.java:149)
+	at edu.caltech.ipac.visualize.plot.ImageDataGroup.recomputeStretch(ImageDataGroup.java:138)
+	at edu.caltech.ipac.visualize.plot.HistogramOps.recomputeStretch(HistogramOps.java:40)
+	at edu.caltech.ipac.visualize.plot.HistogramOps.recomputeStretch(HistogramOps.java:36)
+	at edu.caltech.ipac.firefly.server.visualize.VisServerOps.recomputeStretch(VisServerOps.java:460)
+	at edu.caltech.ipac.firefly.server.visualize.VisServerOps.recomputeStretch(VisServerOps.java:445)
+	at edu.caltech.ipac.firefly.server.rpc.PlotServiceImpl.recomputeStretch(PlotServiceImpl.java:59)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.google.gwt.user.server.rpc.RPC.invokeAndEncodeResponse(RPC.java:587)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processCall(RemoteServiceServlet.java:333)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processCall(RemoteServiceServlet.java:303)
+	at edu.caltech.ipac.firefly.server.rpc.BaseRemoteService.processCall(BaseRemoteService.java:53)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processPost(RemoteServiceServlet.java:373)
+	at com.google.gwt.user.server.rpc.AbstractRemoteServiceServlet.doPost(AbstractRemoteServiceServlet.java:62)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:646)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at edu.caltech.ipac.firefly.server.filters.CommonFilter.doFilter(CommonFilter.java:57)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:683)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:421)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1074)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:611)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+10/16 14:30:57  INFO   Thread: http-bio-8080-exec-3  visualize.CtxControl#revalidatePlot:99
+        revalidation success: WebPlot-lsst--24
+time: 1 ms, file size: 68.0M
+10/16 14:30:57  WARN   Thread: http-bio-8080-exec-3  visualize.VisServerOps#createError:1554
+        on recomputeStretch
+Context String: WebPlot-lsst--24
+Fits Filename: /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits
+java.lang.ArrayIndexOutOfBoundsException: -710
+	at edu.caltech.ipac.visualize.plot.Zscale.cdl_zscale(Zscale.java:94)
+	at edu.caltech.ipac.visualize.plot.FitsRead.getZscaleValue(FitsRead.java:827)
+	at edu.caltech.ipac.visualize.plot.FitsRead.getSlow(FitsRead.java:852)
+	at edu.caltech.ipac.visualize.plot.FitsRead.doStretch(FitsRead.java:802)
+	at edu.caltech.ipac.visualize.plot.ImageData.constructImage(ImageData.java:165)
+	at edu.caltech.ipac.visualize.plot.ImageData.getImage(ImageData.java:72)
+	at edu.caltech.ipac.visualize.plot.ImagePlot.preProcessImageTiles(ImagePlot.java:219)
+	at edu.caltech.ipac.visualize.plot.output.PlotOutput.writeTile(PlotOutput.java:424)
+	at edu.caltech.ipac.visualize.plot.output.PlotOutput.writeTiles(PlotOutput.java:326)
+	at edu.caltech.ipac.visualize.plot.output.PlotOutput.writeTiles(PlotOutput.java:275)
+	at edu.caltech.ipac.firefly.server.visualize.PlotServUtils.writeImageTiles(PlotServUtils.java:142)
+	at edu.caltech.ipac.firefly.server.visualize.VisServerOps.reviseImageFile(VisServerOps.java:1437)
+	at edu.caltech.ipac.firefly.server.visualize.VisServerOps.reviseImageFile(VisServerOps.java:1426)
+	at edu.caltech.ipac.firefly.server.visualize.VisServerOps.recomputeStretch(VisServerOps.java:463)
+	at edu.caltech.ipac.firefly.server.visualize.VisServerOps.recomputeStretch(VisServerOps.java:445)
+	at edu.caltech.ipac.firefly.server.rpc.PlotServiceImpl.recomputeStretch(PlotServiceImpl.java:59)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.google.gwt.user.server.rpc.RPC.invokeAndEncodeResponse(RPC.java:587)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processCall(RemoteServiceServlet.java:333)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processCall(RemoteServiceServlet.java:303)
+	at edu.caltech.ipac.firefly.server.rpc.BaseRemoteService.processCall(BaseRemoteService.java:53)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processPost(RemoteServiceServlet.java:373)
+	at com.google.gwt.user.server.rpc.AbstractRemoteServiceServlet.doPost(AbstractRemoteServiceServlet.java:62)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:646)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at edu.caltech.ipac.firefly.server.filters.CommonFilter.doFilter(CommonFilter.java:57)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:683)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:421)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1074)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:611)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+10/16 14:31:05  INFO   Thread: http-bio-8080-exec-3  visualize.CtxControl#revalidatePlot:99
+        revalidation success: WebPlot-lsst--24
+time: 1 ms, file size: 68.0M
+10/16 14:31:05  WARN   Thread: http-bio-8080-exec-3  visualize.VisServerOps#createError:1554
+        on recomputeStretch
+Context String: WebPlot-lsst--24
+Fits Filename: /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits
+java.lang.ArrayIndexOutOfBoundsException: -710
+	at edu.caltech.ipac.visualize.plot.Zscale.cdl_zscale(Zscale.java:94)
+	at edu.caltech.ipac.visualize.plot.FitsRead.getZscaleValue(FitsRead.java:827)
+	at edu.caltech.ipac.visualize.plot.FitsRead.getSlow(FitsRead.java:852)
+	at edu.caltech.ipac.visualize.plot.FitsRead.doStretch(FitsRead.java:802)
+	at edu.caltech.ipac.visualize.plot.ImageData.constructImage(ImageData.java:165)
+	at edu.caltech.ipac.visualize.plot.ImageData.getImage(ImageData.java:72)
+	at edu.caltech.ipac.visualize.plot.ImagePlot.preProcessImageTiles(ImagePlot.java:219)
+	at edu.caltech.ipac.visualize.plot.output.PlotOutput.writeTile(PlotOutput.java:424)
+	at edu.caltech.ipac.visualize.plot.output.PlotOutput.writeTiles(PlotOutput.java:326)
+	at edu.caltech.ipac.visualize.plot.output.PlotOutput.writeTiles(PlotOutput.java:275)
+	at edu.caltech.ipac.firefly.server.visualize.PlotServUtils.writeImageTiles(PlotServUtils.java:142)
+	at edu.caltech.ipac.firefly.server.visualize.VisServerOps.reviseImageFile(VisServerOps.java:1437)
+	at edu.caltech.ipac.firefly.server.visualize.VisServerOps.reviseImageFile(VisServerOps.java:1426)
+	at edu.caltech.ipac.firefly.server.visualize.VisServerOps.recomputeStretch(VisServerOps.java:463)
+	at edu.caltech.ipac.firefly.server.visualize.VisServerOps.recomputeStretch(VisServerOps.java:445)
+	at edu.caltech.ipac.firefly.server.rpc.PlotServiceImpl.recomputeStretch(PlotServiceImpl.java:59)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.google.gwt.user.server.rpc.RPC.invokeAndEncodeResponse(RPC.java:587)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processCall(RemoteServiceServlet.java:333)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processCall(RemoteServiceServlet.java:303)
+	at edu.caltech.ipac.firefly.server.rpc.BaseRemoteService.processCall(BaseRemoteService.java:53)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processPost(RemoteServiceServlet.java:373)
+	at com.google.gwt.user.server.rpc.AbstractRemoteServiceServlet.doPost(AbstractRemoteServiceServlet.java:62)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:646)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at edu.caltech.ipac.firefly.server.filters.CommonFilter.doFilter(CommonFilter.java:57)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:683)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:421)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1074)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:611)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+10/16 14:31:20  INFO   Thread: http-bio-8080-exec-3  visualize.CtxControl#revalidatePlot:99
+        revalidation success: WebPlot-lsst--24
+time: 1 ms, file size: 68.0M
+10/16 14:31:20  WARN   Thread: http-bio-8080-exec-3  visualize.VisServerOps#createError:1554
+        on recomputeStretch
+Context String: WebPlot-lsst--24
+Fits Filename: /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits
+java.lang.ArrayIndexOutOfBoundsException: -710
+	at edu.caltech.ipac.visualize.plot.Zscale.cdl_zscale(Zscale.java:94)
+	at edu.caltech.ipac.visualize.plot.FitsRead.getZscaleValue(FitsRead.java:827)
+	at edu.caltech.ipac.visualize.plot.FitsRead.getSlow(FitsRead.java:852)
+	at edu.caltech.ipac.visualize.plot.FitsRead.doStretch(FitsRead.java:802)
+	at edu.caltech.ipac.visualize.plot.ImageData.constructImage(ImageData.java:165)
+	at edu.caltech.ipac.visualize.plot.ImageData.getImage(ImageData.java:72)
+	at edu.caltech.ipac.visualize.plot.ImagePlot.preProcessImageTiles(ImagePlot.java:219)
+	at edu.caltech.ipac.visualize.plot.output.PlotOutput.writeTile(PlotOutput.java:424)
+	at edu.caltech.ipac.visualize.plot.output.PlotOutput.writeTiles(PlotOutput.java:326)
+	at edu.caltech.ipac.visualize.plot.output.PlotOutput.writeTiles(PlotOutput.java:275)
+	at edu.caltech.ipac.firefly.server.visualize.PlotServUtils.writeImageTiles(PlotServUtils.java:142)
+	at edu.caltech.ipac.firefly.server.visualize.VisServerOps.reviseImageFile(VisServerOps.java:1437)
+	at edu.caltech.ipac.firefly.server.visualize.VisServerOps.reviseImageFile(VisServerOps.java:1426)
+	at edu.caltech.ipac.firefly.server.visualize.VisServerOps.recomputeStretch(VisServerOps.java:463)
+	at edu.caltech.ipac.firefly.server.visualize.VisServerOps.recomputeStretch(VisServerOps.java:445)
+	at edu.caltech.ipac.firefly.server.rpc.PlotServiceImpl.recomputeStretch(PlotServiceImpl.java:59)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.google.gwt.user.server.rpc.RPC.invokeAndEncodeResponse(RPC.java:587)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processCall(RemoteServiceServlet.java:333)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processCall(RemoteServiceServlet.java:303)
+	at edu.caltech.ipac.firefly.server.rpc.BaseRemoteService.processCall(BaseRemoteService.java:53)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processPost(RemoteServiceServlet.java:373)
+	at com.google.gwt.user.server.rpc.AbstractRemoteServiceServlet.doPost(AbstractRemoteServiceServlet.java:62)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:646)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at edu.caltech.ipac.firefly.server.filters.CommonFilter.doFilter(CommonFilter.java:57)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:683)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:421)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1074)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:611)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+10/16 14:32:08  INFO   Thread: http-bio-8080-exec-33  download.URLDownload#printMessage:80
+        ----------Sending
+http://lsst.cs.illinois.edu/images/image.fits
+----------Received Headers
+<none>              : HTTP/1.0 200 OK
+Content-type        : image/fits
+Server              : SimpleHTTP/0.6 Python/2.6.6
+Last-Modified       : Fri, 16 Oct 2015 18:27:14 GMT
+Content-Length      : 71308800
+Date                : Fri, 16 Oct 2015 19:32:08 GMT
+10/16 14:32:08  INFO   Thread: http-bio-8080-exec-33  download.URLDownload#printMessage:80
+        http://lsst.cs.illinois.edu/images/image.fits
+Download Complete: URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits : 71308800 bytes
+10/16 14:32:09  INFO   Thread: http-bio-8080-exec-33  visualize.WebPlotFactory#logSuccess:424
+        create plot   - file   : Total: 786 ms, Find-   329 ms, Read-     0 ms, Ctx:WebPlot-lsst--30
+filename (68.0M): /home/dyue2/.extract/temp/workarea/fftools/visualize/fits-cache/URL--lsst.cs.illinois.edu--2086223761-imagesimage.fits
+PlotState Summary: PlotState: WebPlotRequest:  URL: http://lsst.cs.illinois.edu/images/image.fits, ctxStr: WebPlot-lsst--30, zoom: 0.2734375, color id: 0, 3 color: false
