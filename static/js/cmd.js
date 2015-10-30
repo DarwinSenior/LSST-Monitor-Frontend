@@ -261,9 +261,10 @@ cmds = {
             var getRegion = function(pt){
                 var x = Math.floor(pt.x/width);
                 var y = Math.floor(pt.y/height);
-                var x_before = Math.floor(+x_point.text());
-                var y_before = Math.floor(+y_point.text());
+                var x_before = Math.floor(+x_point.text()/width);
+                var y_before = Math.floor(+y_point.text()/height);
                 if (x!=x_before || y!=y_before){
+                    console.log('called');
                     request = {'region': {'geometry': 
                         {'type': 'Polygon',
                         'coordinates': [
