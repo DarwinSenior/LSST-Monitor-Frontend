@@ -264,7 +264,7 @@ cmds = {
                 var x_before = Math.floor(+x_point.text()/width);
                 var y_before = Math.floor(+y_point.text()/height);
                 if (x!=x_before || y!=y_before){
-                    console.log('called');
+                    console.log(x_before, y_before, x, y);
                     request = {'region': {'geometry': 
                         {'type': 'Polygon',
                         'coordinates': [
@@ -284,9 +284,9 @@ cmds = {
                 return 'Region <'+x+','+y+'>';
             }
             state.show_readouts.add(name, function(data){
+                region_name.text(getRegion(data.ipt));
                 x_point.text(Math.floor(data.ipt.x));
                 y_point.text(Math.floor(data.ipt.y));
-                region_name.text(getRegion(data.ipt));
             });
             state.boxes[name].clear = function(){
                 state.show_readouts.remove(name);
