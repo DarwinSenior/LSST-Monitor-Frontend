@@ -20,17 +20,19 @@ For the demon purpose, the following command are availabe within the command win
 8. `chart`
 9. `chart2`
 10. `read_mouse`
+11. `blink`
 
 And for further detail, please type `help`. 
 
 -----
-
-## current known issue
-
-The loading for firefly is slow for processing stage. And since the server is blocking (swig), it might have blocking issue when multiple people are accessing.
 
 ## extension
 
 Current design is surround [firefly](https://github.com/lsst/firefly), and it plans to use [d3](http://d3js.org/), and [nvd3](http://nvd3.org/) for drawing and dom manipulation. The command tool box is based on [jquery terminal](http://terminal.jcubic.pl/). 
 
 
+----
+
+## log
+
++ __2015 11 06__ added the blink function and viewer has support for different images
