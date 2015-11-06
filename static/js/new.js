@@ -9,10 +9,21 @@ var showRegionPointCB = function(data){
     console.log(data.ipt1.x+","+data.ipt1.y);
 }
 
-function loadFirefly(viewId){
+function changeViewFirefly(viewer, image){
+   image = image || 'image'; 
+    viewer.plot({
+        "URL" : "http://lsst.cs.illinois.edu/static/images/"+image+".fits",
+        "Title" : "Some WISE image",
+        "ZoomType" : "TO_WIDTH"
+    });
+    return viewer;
+}
+
+function loadFirefly(viewId, image){
     var primaryViewer = firefly.makeImageViewer(viewId);
+    image = image || 'image';
     primaryViewer.plot({
-        "URL" : "http://lsst.cs.illinois.edu/static/images/image.fits",
+        "URL" : "http://lsst.cs.illinois.edu/static/images/"+image+".fits",
         "Title" : "Some WISE image",
         "ZoomType" : "TO_WIDTH"
     });

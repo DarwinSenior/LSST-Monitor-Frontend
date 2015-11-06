@@ -30,6 +30,7 @@ var readouts = function(){
         });
 };
 
+
 var onFireflyLoaded = function() {
     var viewer = loadFirefly('ffview');
     state.lsstviewers['ffview'] = viewer;
@@ -86,7 +87,9 @@ cmds = {
                 state.term.echo("If you wish to delete the box completely, use delete_box");
                 break;
             case "viewer":
-                state.term.echo("viewer <name> -> add firefly viewer view inside the box");
+                state.term.echo("viewer <name> <image> -> add firefly viewer view inside the box");
+                state.term.echo("currently there are three images available im0 im1 image");
+                state.term.echo("if image is not speficied, return the default image");
                 state.term.echo("If the box does not exists, nothing will happen");
                 break;
             case "chart":
@@ -100,6 +103,13 @@ cmds = {
             case "read_mouse":
                 state.term.echo("read_mouse <name> -> add the mouse position parameters inside the box");
                 state.term.echo("currently showing the pixel coordinates of x,y and the region it correspond to");
+            case "blink":
+                state.term.echo("blink <name> <im1> <im2> <interval> <times>-> show two images flash back and forth");
+                state.term.echo("If only name is specified, then it just restart the blinking process of previous settings");
+                state.term.echo("currently there are two available images im0 and im1");
+                state.term.echo("interval shall be in ms");
+                state.term.echo("times will be blinking times that it adds on");
+                state.term.echo("blink <name> stop -> stop the image blinking");
             default:
                 state.term.echo("The followings are the functionality we wish to provide");
                 state.term.echo("For further detail, type `help <command>` for specific command");
@@ -113,6 +123,7 @@ cmds = {
                 state.term.echo("chart");
                 state.term.echo("chart2");
                 state.term.echo("read_mouse");
+                state.term.echo("blink");
         }
     },
     show_boundary : function(state, cmd_args){
@@ -204,10 +215,14 @@ cmds = {
         if (!state.boxes[name]){
             state.term.echo("The box "+name+" cannot be found\n");
         }else{
-            view_id = "view-"+name;
-            cmds.clear_box(state, ['', name]);
-            var content = state.boxes[name].select.select('.box-content').attr('id', view_id);
-            state.lsstviewers[view_id] = loadFirefly(view_id);
+            var view_id = "view-"+name;
+            if (state.lsstviewers[view_id]){
+                changeViewFirefly(state.lsstviewers[view_id], cmd_args[2]); 
+            }else{
+                cmds.clear_box(state, ['', name]);
+                var content = state.boxes[name].select.select('.box-content').attr('id', view_id);
+                state.lsstviewers[view_id] = loadFirefly(view_id, cmd_args[2]);
+            }
         }
     },
 
@@ -264,7 +279,6 @@ cmds = {
                 var x_before = Math.floor(+x_point.text()/width);
                 var y_before = Math.floor(+y_point.text()/height);
                 if (x!=x_before || y!=y_before){
-                    console.log(x_before, y_before, x, y);
                     request = {'region': {'geometry': 
                         {'type': 'Polygon',
                         'coordinates': [
@@ -291,6 +305,59 @@ cmds = {
             state.boxes[name].clear = function(){
                 state.show_readouts.remove(name);
             };
+        }
+    },
+    blink: function(state, cmd_args){
+        var argc = cmd_args.length;
+        var name = cmd_args[1];
+        
+        if (argc == 2 || argc == 3){
+            var datum = state.boxes[name].select.select('.box-content').datum();
+            if (state.boxes[name] && state.boxes[name].select.select('.box-content').classed('blink')){
+                if (cmd_args[2] == 'stop'){
+                    datum.times = 0;
+                }else{ datum.times = datum.times+ (Number(cmd_args[2]) || 0)}
+                console.log(datum.times)
+            } 
+        }else{
+            var im1 = cmd_args[2];
+            var im2 = cmd_args[3];
+            var interval = Number(cmd_args[4]);
+            var times = Number(cmd_args[5]);
+            
+            cmds.clear_box(state, ['', name]);
+            var content = state.boxes[name].select.select('.box-content')
+                            .attr('id', 'blink-'+name).classed('blink', 'true');
+            content.datum({times: times, interval: interval, interval_id: undefined});
+            var datum = content.datum();
+            state.boxes[name].clear = function(){
+                clearInterval(datum.interval_id);
+            }
+            content.style({'position': 'relative'});
+            var first_element = content.append('div').attr('id', 'blink-1-'+name).style({
+                'opacity': 1,
+                'position': 'absolute',
+                'top': 0, 'bottom': 0, 'left': 0, 'right': 0
+            });
+            var second_element = content.append('div').attr('id', 'blink-2-'+name).style({
+                'opacity': 0,
+                'position': 'absolute',
+                'top': 0, 'bottom': 0, 'left': 0, 'right': 0
+            });
+            loadFirefly('blink-1-'+name, im1);
+            loadFirefly('blink-2-'+name, im2);
+
+            var flip = function(){
+                console.log(datum);
+                if (datum.times > 0){
+                    opacity_1 = first_element.style('opacity');
+                    opacity_2 = second_element.style('opacity');
+                    first_element.style('opacity', opacity_2);
+                    second_element.style('opacity', opacity_1);
+                    datum.times -= 1;
+                }
+            }
+            datum.interval_id = setInterval(flip, interval);
         }
     }
 }
