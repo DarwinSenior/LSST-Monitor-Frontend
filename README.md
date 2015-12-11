@@ -35,4 +35,6 @@ Current design is surround [firefly](https://github.com/lsst/firefly), and it pl
 
 ## log
 
++ __2015 12 11__ added the python dependency requirement.txt. For firefly server, change `http://lsst.cs.illinois.edu:8080/fftools/fftools.nocache.js` to the intended javascript [/static/index.html](https://github.com/lsst-camera-visualization/LSST-Monitor-Frontend/blob/master/static/index.html) 
+
 + __2015 11 06__ added the blink function and viewer has support for different images
